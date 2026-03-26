@@ -1,4 +1,4 @@
-package KIRBYAMOLE;
+package KAM;
 
 import java.awt.*;
 import java.awt.event.*;
