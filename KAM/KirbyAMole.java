@@ -51,10 +51,10 @@ public class KirbyAMole {
 		frame.add(textPanel, BorderLayout.NORTH);
 		frame.add(boardPanel);
 		
-		Image kirbyImg = new ImageIcon(getClass().getResource("./kirby.png")).getImage();
+		Image kirbyImg = new ImageIcon(getClass().getResource("/kirby.png")).getImage();
 		kirbyIcon = new ImageIcon(kirbyImg.getScaledInstance(150, 150, java.awt.Image.SCALE_SMOOTH));
 		
-		Image kingImg = new ImageIcon(getClass().getResource("./kingddd.png")).getImage();
+		Image kingImg = new ImageIcon(getClass().getResource("/kingddd.png")).getImage();
 		kingIcon = new ImageIcon(kingImg.getScaledInstance(150, 150, java.awt.Image.SCALE_SMOOTH));
 		
 		score = 0;
