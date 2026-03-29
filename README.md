@@ -9,7 +9,7 @@
 
 | Asset / Description | Source Link |
 | :--- | :--- |
-| *Example Image 01* | [Link to Source](https://example.com) |
+| Omori Like Arts | (https://picrew.me/en/image_maker/1689727) |
 | *Example Image 02* | [Link to Source](https://example.com) |
 | *Background Asset* | [Link to Source](https://example.com) |
 
